@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="instabug_header">We\'d like to hear from you !</string>
+    <string name="instabug_report_bug">Tell us about issues you found</string>
+    <string name="instabug_bug_desc">Something in the app is broken or doesn’t work as expected</string>
+    <string name="instabug_feedback">Tell us your suggestions to improve</string>
+    <string name="instabug_feedback_desc">New ideas or desired enhancements for this app</string>
+    <string name="instabug_question">Tell us how you feel so far</string>
+    <string name="instabug_question_desc">The good, the bad, and the friendliness</string>
+    <string name="instabug_comment">Please be as detailed as possible.  What did you expect and what happened instead?\n\nYou may upload up to 3 photos, total 16mb.</string>
+
+</resources>
